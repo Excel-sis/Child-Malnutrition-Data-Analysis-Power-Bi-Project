@@ -6,7 +6,7 @@
 
 [Project Objectives](#project-objectives)
 
-[Under-Five Child Nutrition Analysis Dataset](#under-five child nutrition analysis dataset)
+[Under-Five Child Nutrition Dataset](#under-five-child-nutrition-dataset)
 
 [KPI Questions](#kpi-questions)
 
