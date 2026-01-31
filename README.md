@@ -156,15 +156,17 @@ The project demonstrates the value of data-driven dashboards in understanding an
 
 ## Dashboard
 
-![Nutrition_Overview](https://github.com/Excel-sis/Child-Malnutrition-Powerbi-Dashboard/blob/main/Nutrition_Overview.png)
+![Nutrition_Overview](https://github.com/Excel-sis/Child-Malnutrition-Data-Analysis-Power-Bi-Project/blob/main/Nutrition_Overview.png)
 
-![Health_Factors](https://github.com/Excel-sis/Child-Malnutrition-Powerbi-Dashboard/blob/main/Health_Factors.png)
+![Health_Factors](https://github.com/Excel-sis/Child-Malnutrition-Data-Analysis-Power-Bi-Project/blob/main/Health_Factors.png)
 
-![SocioEconomic_Drivers](https://github.com/Excel-sis/Child-Malnutrition-Powerbi-Dashboard/blob/main/SocioEconomic_Drivers.png)
+![SocioEconomic_Drivers](https://github.com/Excel-sis/Child-Malnutrition-Data-Analysis-Power-Bi-Project/blob/main/SocioEconomic_Drivers.png)
 
-![Regional_Disparities](https://github.com/Excel-sis/Child-Malnutrition-Powerbi-Dashboard/blob/main/Regional_Disparities.png)
+![Regional_Disparities](https://github.com/Excel-sis/Child-Malnutrition-Data-Analysis-Power-Bi-Project/blob/main/Regional_Disparities.png)
 
-![Risk & Action](https://github.com/Excel-sis/Child-Malnutrition-Powerbi-Dashboard/blob/main/Risk%20%26%20Action.png)
+![Risk & Action](https://github.com/Excel-sis/Child-Malnutrition-Data-Analysis-Power-Bi-Project/blob/main/Risk%20%26%20Action.png)
+
+
 
 
 
