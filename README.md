@@ -44,7 +44,7 @@ To;
 
 ## Dataset Used
 
-<a href="https://github.com/Excel-sis/Child-Malnutrition-Powerbi-Dashboard/blob/main/malnutrition_children_ethiopia.xlsx">PowerBi Data</a>
+<a href="https://github.com/Excel-sis/Child-Malnutrition-Data-Analysis-Power-Bi-Project/blob/main/Under-Five%20Child%20Nutrition%20Dataset.xlsx">PowerBi Data</a>
 
 ## KPI Questions
 
